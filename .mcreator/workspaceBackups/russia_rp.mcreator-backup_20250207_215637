@@ -1,0 +1,1241 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rubles100",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_100",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Rubles100Item.java",
+          "src/main/resources/assets/russia_rp/models/item/rubles_100.json"
+        ]
+      }
+    },
+    {
+      "name": "RussiaRPTab",
+      "type": "tab",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "russia_rp_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Rubles200",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_200",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Rubles200Item.java",
+          "src/main/resources/assets/russia_rp/models/item/rubles_200.json"
+        ]
+      }
+    },
+    {
+      "name": "Rubles1000",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_1000",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Rubles1000Item.java",
+          "src/main/resources/assets/russia_rp/models/item/rubles_1000.json"
+        ]
+      }
+    },
+    {
+      "name": "Rubles5000",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_5000",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rubles_5000.json",
+          "src/main/java/net/mcreator/russiarp/item/Rubles5000Item.java"
+        ]
+      }
+    },
+    {
+      "name": "Rubles2000",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_2000",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Rubles2000Item.java",
+          "src/main/resources/assets/russia_rp/models/item/rubles_2000.json"
+        ]
+      }
+    },
+    {
+      "name": "Rubles500",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_500",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rubles_500.json",
+          "src/main/java/net/mcreator/russiarp/item/Rubles500Item.java"
+        ]
+      }
+    },
+    {
+      "name": "Ruble1",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruble_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Ruble1Item.java",
+          "src/main/resources/assets/russia_rp/models/item/ruble_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Rubles2",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rubles_2.json",
+          "src/main/java/net/mcreator/russiarp/item/Rubles2Item.java"
+        ]
+      }
+    },
+    {
+      "name": "Ruble1R",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruble_1_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Ruble1RItem.java",
+          "src/main/resources/assets/russia_rp/models/item/ruble_1_r.json"
+        ]
+      }
+    },
+    {
+      "name": "Rubles5",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rubles_5.json",
+          "src/main/java/net/mcreator/russiarp/item/Rubles5Item.java"
+        ]
+      }
+    },
+    {
+      "name": "Rubles10",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rubles_10.json",
+          "src/main/java/net/mcreator/russiarp/item/Rubles10Item.java"
+        ]
+      }
+    },
+    {
+      "name": "Rubles50",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_50",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Rubles50Item.java",
+          "src/main/resources/assets/russia_rp/models/item/rubles_50.json"
+        ]
+      }
+    },
+    {
+      "name": "Rubles5Cash",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_5_cash",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rubles_5_cash.json",
+          "src/main/java/net/mcreator/russiarp/item/Rubles5CashItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Rubles10Cash",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubles_10_cash",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/Rubles10CashItem.java",
+          "src/main/resources/assets/russia_rp/models/item/rubles_10_cash.json"
+        ]
+      }
+    },
+    {
+      "name": "RolltonChicken",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rollton_chicken",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/rollton_chicken.json",
+          "src/main/java/net/mcreator/russiarp/item/RolltonChickenItem.java"
+        ]
+      }
+    },
+    {
+      "name": "LoafOfBread",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "loaf_of_bread",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/loaf_of_bread.json",
+          "src/main/java/net/mcreator/russiarp/item/LoafOfBreadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SliceOfBread",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slice_of_bread",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/slice_of_bread.json",
+          "src/main/java/net/mcreator/russiarp/item/SliceOfBreadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EndSliceOfBread",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_slice_of_bread",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/EndSliceOfBreadItem.java",
+          "src/main/resources/assets/russia_rp/models/item/end_slice_of_bread.json"
+        ]
+      }
+    },
+    {
+      "name": "BigSausage",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_sausage",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/BigSausageItem.java",
+          "src/main/resources/assets/russia_rp/models/item/big_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "SliceOfBigSausage",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slice_of_big_sausage",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/SliceOfBigSausageItem.java",
+          "src/main/resources/assets/russia_rp/models/item/slice_of_big_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "Butter",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butter",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/butter.json",
+          "src/main/java/net/mcreator/russiarp/item/ButterItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SliceOfButter",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slice_of_butter",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/SliceOfButterItem.java",
+          "src/main/resources/assets/russia_rp/models/item/slice_of_butter.json"
+        ]
+      }
+    },
+    {
+      "name": "SausageSandwich",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sausage_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/sausage_sandwich.json",
+          "src/main/java/net/mcreator/russiarp/item/SausageSandwichItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SandwichButter",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandwich_butter",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/sandwich_butter.json",
+          "src/main/java/net/mcreator/russiarp/item/SandwichButterItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BreadCraft",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/bread_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "BreadReverseCraft",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_reverse_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/bread_reverse_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "BreadCraft2",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/bread_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SandwichCraft",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandwich_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/sandwich_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "SandwichCraft2",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandwich_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/sandwich_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SausageSandwichCraft",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sausage_sandwich_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/sausage_sandwich_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "SausageCraft",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sausage_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/sausage_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "SausageReverseCraft",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sausage_reverse_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/sausage_reverse_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "ButterCraft",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butter_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/butter_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "ButterReverseCraft",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butter_reverse_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/butter_reverse_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "WheatFlour",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wheat_flour",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/WheatFlourItem.java",
+          "src/main/resources/assets/russia_rp/models/item/wheat_flour.json"
+        ]
+      }
+    },
+    {
+      "name": "FlourCraft",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flour_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/flour_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "Salt",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/salt.json",
+          "src/main/java/net/mcreator/russiarp/item/SaltItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SaltKill",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_kill",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/SaltKillProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PinchOfSalt",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinch_of_salt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/pinch_of_salt.json",
+          "src/main/java/net/mcreator/russiarp/item/PinchOfSaltItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CheckSalt",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "check_salt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/CheckSaltProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PoisonousOil",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poisonous_oil",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/PoisonousOilProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SaltCraft",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/salt_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "SaltReverseCraft",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salt_reverse_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/salt_reverse_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "ChipsLavaLava",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chips_lava_lava",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/ChipsLavaLavaItem.java",
+          "src/main/resources/assets/russia_rp/models/item/chips_lava_lava.json"
+        ]
+      }
+    },
+    {
+      "name": "ChipsCraft",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chips_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/chips_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "SweetenedCondensedMilk",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sweetened_condensed_milk",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/SweetenedCondensedMilkItem.java",
+          "src/main/resources/assets/russia_rp/models/item/sweetened_condensed_milk.json"
+        ]
+      }
+    },
+    {
+      "name": "CanOfSweetenedCondensedMilk",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "can_of_sweetened_condensed_milk",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/can_of_sweetened_condensed_milk.json",
+          "src/main/java/net/mcreator/russiarp/item/CanOfSweetenedCondensedMilkItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CondensedMilkCraft",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_milk_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/condensed_milk_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "CondensedMilkCraft2",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_milk_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/condensed_milk_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CondensedMilkReverseCraft2",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_milk_reverse_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/condensed_milk_reverse_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Pancake",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancake",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/pancake.json",
+          "src/main/java/net/mcreator/russiarp/item/PancakeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pancakes",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/PancakesItem.java",
+          "src/main/resources/assets/russia_rp/models/item/pancakes.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakeWithSweetenedCondensedMilk",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancake_with_sweetened_condensed_milk",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/PancakeWithSweetenedCondensedMilkItem.java",
+          "src/main/resources/assets/russia_rp/models/item/pancake_with_sweetened_condensed_milk.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakesWithSweetenedCondensedMilk",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes_with_sweetened_condensed_milk",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/PancakesWithSweetenedCondensedMilkItem.java",
+          "src/main/resources/assets/russia_rp/models/item/pancakes_with_sweetened_condensed_milk.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakesCraft2",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancakes_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakesCraft",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancakes_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakeCraft",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancake_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancake_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakeWithMilkCraft",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancake_with_milk_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancake_with_milk_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakeWithMilkCraft2",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancake_with_milk_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancake_with_milk_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakeWithMilkCraft3",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancake_with_milk_craft_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancake_with_milk_craft_3.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakesWithMilkCraft",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes_with_milk_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancakes_with_milk_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakesWithMilkCraft2",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes_with_milk_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/russia_rp/recipes/pancakes_with_milk_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Passport",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "passport",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/passport.json",
+          "src/main/java/net/mcreator/russiarp/item/PassportItem.java",
+          "src/main/java/net/mcreator/russiarp/item/inventory/PassportInventoryCapability.java"
+        ]
+      }
+    },
+    {
+      "name": "Oil",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oil",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/oil.json",
+          "src/main/java/net/mcreator/russiarp/item/OilItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SetPassportOwner",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "set_passport_owner",
+      "metadata": {
+        "return_type": "string",
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/SetPassportOwnerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GetPassportOwner",
+      "type": "procedure",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_passport_owner",
+      "metadata": {
+        "return_type": "string",
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/GetPassportOwnerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PassportGUI",
+      "type": "gui",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "passport_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/world/inventory/PassportGUIMenu.java",
+          "src/main/java/net/mcreator/russiarp/client/gui/PassportGUIScreen.java"
+        ]
+      }
+    },
+    {
+      "name": "GetEntity",
+      "type": "procedure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_entity",
+      "metadata": {
+        "return_type": "entity",
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/GetEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shawarma",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shawarma",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/ShawarmaItem.java",
+          "src/main/resources/assets/russia_rp/models/item/shawarma.json"
+        ]
+      }
+    },
+    {
+      "name": "Shawarma2",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shawarma_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/russia_rp/models/item/shawarma_2.json",
+          "src/main/java/net/mcreator/russiarp/item/Shawarma2Item.java"
+        ]
+      }
+    },
+    {
+      "name": "PoisonousShawarma",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poisonous_shawarma",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/PoisonousShawarmaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BrilliantGreen",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brilliant_green",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/BrilliantGreenItem.java",
+          "src/main/resources/assets/russia_rp/models/item/brilliant_green.json"
+        ]
+      }
+    },
+    {
+      "name": "ZelyonkaHeal",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zelyonka_heal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/ZelyonkaHealProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CrackersMixbarBacon",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crackers_mixbar_bacon",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/CrackersMixbarBaconItem.java",
+          "src/main/resources/assets/russia_rp/models/item/crackers_mixbar_bacon.json"
+        ]
+      }
+    },
+    {
+      "name": "HydrogenPeroxide",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogen_peroxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/item/HydrogenPeroxideItem.java",
+          "src/main/resources/assets/russia_rp/models/item/hydrogen_peroxide.json"
+        ]
+      }
+    },
+    {
+      "name": "HydrogenPeroxideHeal",
+      "type": "procedure",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogen_peroxide_heal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/russiarp/procedures/HydrogenPeroxideHealProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "AteSalt",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "item.russia_rp.brilliant_green": "Зелёнка",
+      "item.russia_rp.pancakes": "Блины",
+      "item.russia_rp.pancakes_with_sweetened_condensed_milk": "Блины со сгущёнкой",
+      "item.russia_rp.salt": "Соль",
+      "item.russia_rp.pinch_of_salt": "Щепоть соли",
+      "item.russia_rp.pancake": "Блин",
+      "item.russia_rp.shawarma": "Шаурма",
+      "item.russia_rp.crackers_mixbar_bacon": "Сухарики",
+      "item.russia_rp.oil": "Подсолнечное масло",
+      "item.russia_rp.rollton_chicken": "Роллтон",
+      "item.russia_rp.butter": "Сливочное масло",
+      "item.russia_rp.sausage_sandwich": "Бутерброд с колбасой",
+      "item.russia_rp.end_slice_of_bread": "Горбушка",
+      "item.russia_rp.rubles_1000": "1000 рублей",
+      "death.attack.died_from_salt": "%s наелся соли",
+      "item.russia_rp.ruble_1_r": "1 рубль",
+      "item.russia_rp.rubles_10": "10 рублей",
+      "item.russia_rp.chips_lava_lava": "Чипсы Lava Lava",
+      "item.russia_rp.rubles_5_cash": "5 рублей",
+      "item.russia_rp.rubles_50": "50 рублей",
+      "item.russia_rp.rubles_5000": "5000 рублей",
+      "itemGroup.tabrussia_rp_tab": "Россия РП",
+      "item.russia_rp.slice_of_butter": "Кусок масла",
+      "item.russia_rp.sandwich_butter": "Бутерброд",
+      "item.russia_rp.loaf_of_bread": "Батон",
+      "item.russia_rp.rubles_10_cash": "10 рублей",
+      "item.russia_rp.big_sausage": "Колбаса",
+      "item.russia_rp.sweetened_condensed_milk": "Сгущёнка",
+      "item.russia_rp.wheat_flour": "Мука",
+      "item.russia_rp.hydrogen_peroxide": "Перекись водорода",
+      "item.russia_rp.pancake_with_sweetened_condensed_milk": "Блин со сгущёнкой",
+      "item.russia_rp.can_of_sweetened_condensed_milk": "Банка сгущёнки",
+      "gui.russia_rp.passport_gui.label_imia": "Имя:",
+      "item.russia_rp.passport": "Паспорт",
+      "item.russia_rp.shawarma_2": "Шаурма",
+      "item.russia_rp.rubles_5": "5 рублей",
+      "item.russia_rp.ruble_1": "1 рубль",
+      "item.russia_rp.rubles_200": "200 рублей",
+      "item.russia_rp.rubles_100": "100 рублей",
+      "item.russia_rp.rubles_2000": "2000 рублей",
+      "item.russia_rp.slice_of_big_sausage": "Кусок колбасы",
+      "item.russia_rp.slice_of_bread": "Кусок хлеба",
+      "item.russia_rp.rubles_500": "500 рублей",
+      "item.russia_rp.rubles_2": "2 рубля"
+    },
+    "en_us": {
+      "item.russia_rp.brilliant_green": "Brilliant green",
+      "item.russia_rp.pancakes_with_sweetened_condensed_milk": "Pancakes with sweetened condensed milk",
+      "item.russia_rp.pancakes": "Pancakes",
+      "item.russia_rp.pinch_of_salt": "Pinch of salt",
+      "item.russia_rp.salt": "Salt",
+      "item.russia_rp.pancake": "Pancake",
+      "item.russia_rp.shawarma": "Shawarma",
+      "item.russia_rp.crackers_mixbar_bacon": "Crackers",
+      "item.russia_rp.oil": "Oil",
+      "item.russia_rp.rollton_chicken": "Rollton",
+      "item.russia_rp.butter": "Butter",
+      "item.russia_rp.rubles_1000": "1000 rubles",
+      "item.russia_rp.end_slice_of_bread": "End slice of bread",
+      "item.russia_rp.sausage_sandwich": "Sausage sandwich",
+      "death.attack.died_from_salt": "%s ate too much salt",
+      "item.russia_rp.ruble_1_r": "1 ruble",
+      "item.russia_rp.rubles_10": "10 rubles",
+      "item.russia_rp.chips_lava_lava": "Chips",
+      "item.russia_rp.rubles_5_cash": "5 rubles",
+      "itemGroup.tabrussia_rp_tab": "Russia RP",
+      "item.russia_rp.rubles_5000": "5000 rubles",
+      "item.russia_rp.rubles_50": "50 rubles",
+      "item.russia_rp.slice_of_butter": "Slice of butter",
+      "item.russia_rp.sandwich_butter": "Sandwich",
+      "item.russia_rp.loaf_of_bread": "Bread",
+      "item.russia_rp.rubles_10_cash": "10 rubles",
+      "item.russia_rp.big_sausage": "Big sausage",
+      "item.russia_rp.sweetened_condensed_milk": "Sweetened condensed milk",
+      "item.russia_rp.wheat_flour": "Flour",
+      "item.russia_rp.hydrogen_peroxide": "Hydrogen peroxide",
+      "item.russia_rp.pancake_with_sweetened_condensed_milk": "Pancake with sweetened condensed milk",
+      "item.russia_rp.can_of_sweetened_condensed_milk": "Can of sweetened condensed milk",
+      "gui.russia_rp.passport_gui.label_imia": "Name:",
+      "item.russia_rp.passport": "Passport",
+      "item.russia_rp.shawarma_2": "Shawarma",
+      "item.russia_rp.rubles_5": "5 rubles",
+      "item.russia_rp.ruble_1": "1 ruble",
+      "item.russia_rp.rubles_200": "200 rubles",
+      "item.russia_rp.rubles_100": "100 rubles",
+      "item.russia_rp.rubles_2000": "2000 rubles",
+      "item.russia_rp.slice_of_big_sausage": "Slice of sausage",
+      "item.russia_rp.slice_of_bread": "Slice of bread",
+      "item.russia_rp.rubles_500": "500 rubles",
+      "item.russia_rp.rubles_2": "2 rubles"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "russia_rp",
+    "modName": "Россия РП",
+    "version": "1",
+    "description": "Мод для РП про Россию\\nНекоторые текстуры были изменены мной или ИИ",
+    "author": "NosokGamer2011",
+    "license": "Not specified",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.russiarp",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

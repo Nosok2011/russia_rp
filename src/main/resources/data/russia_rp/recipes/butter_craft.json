@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    },
+    {
+      "item": "russia_rp:slice_of_butter"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:butter",
+    "count": 1
+  }
+}

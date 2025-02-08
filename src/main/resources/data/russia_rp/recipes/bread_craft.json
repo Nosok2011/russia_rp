@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:end_slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:slice_of_bread"
+    },
+    {
+      "item": "russia_rp:end_slice_of_bread"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:loaf_of_bread",
+    "count": 1
+  }
+}

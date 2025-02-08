@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      },
+      {
+        "value": "CUSTOM:SliceOfBigSausage"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BigSausage"
+    },
+    "name": "sausage_craft",
+    "namespace": "mod"
+  }
+}

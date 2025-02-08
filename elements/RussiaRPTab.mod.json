@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "Russia RP Tab",
+    "icon": {
+      "value": "CUSTOM:Rubles100"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:pancakes"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:pancake",
+    "count": 9
+  }
+}

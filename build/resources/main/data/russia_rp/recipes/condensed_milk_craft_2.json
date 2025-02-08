@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "russia_rp:sweetened_condensed_milk"
+    },
+    "1": {
+      "item": "russia_rp:sweetened_condensed_milk"
+    }
+  },
+  "result": {
+    "item": "russia_rp:can_of_sweetened_condensed_milk",
+    "count": 1
+  }
+}

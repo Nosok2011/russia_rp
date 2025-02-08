@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "russia_rp:wheat_flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:oil"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:pancakes",
+    "count": 1
+  }
+}

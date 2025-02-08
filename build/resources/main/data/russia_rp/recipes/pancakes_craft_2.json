@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    },
+    {
+      "item": "russia_rp:pancake"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:pancakes",
+    "count": 1
+  }
+}

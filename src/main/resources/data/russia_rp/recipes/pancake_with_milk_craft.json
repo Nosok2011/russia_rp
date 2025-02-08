@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:sweetened_condensed_milk"
+    },
+    {
+      "item": "russia_rp:pancake"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:pancake_with_sweetened_condensed_milk",
+    "count": 1
+  }
+}

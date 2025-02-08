@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:sandwich_butter"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:sausage_sandwich",
+    "count": 1
+  }
+}

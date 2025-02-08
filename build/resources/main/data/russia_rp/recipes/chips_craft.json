@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:chips_lava_lava",
+    "count": 1
+  }
+}

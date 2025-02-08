@@ -1,0 +1,23 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-07 21:52:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2025-02-07 21:51:32 +0300",
+      "minecraft:lush_caves": "2025-02-07 22:00:14 +0300",
+      "minecraft:old_growth_birch_forest": "2025-02-07 22:04:03 +0300"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-07 21:53:20 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

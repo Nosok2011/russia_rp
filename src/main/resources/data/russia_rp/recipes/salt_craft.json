@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    },
+    {
+      "item": "russia_rp:pinch_of_salt"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:salt",
+    "count": 1
+  }
+}

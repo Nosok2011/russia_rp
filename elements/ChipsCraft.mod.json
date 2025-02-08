@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PinchOfSalt"
+      },
+      {
+        "value": "CUSTOM:PinchOfSalt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Items.POTATO"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChipsLavaLava"
+    },
+    "name": "chips_craft",
+    "namespace": "mod"
+  }
+}

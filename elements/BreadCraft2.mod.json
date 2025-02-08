@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      },
+      {
+        "value": "CUSTOM:SliceOfBread"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LoafOfBread"
+    },
+    "name": "bread_craft_2",
+    "namespace": "mod"
+  }
+}

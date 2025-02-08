@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Not specified"
+
+[[mods]]
+modId="russia_rp"
+version="1"
+displayName="Россия РП"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="NosokGamer2011"
+description="Мод для РП про Россию\nНекоторые текстуры были изменены мной или ИИ"
+
+[[dependencies.russia_rp]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

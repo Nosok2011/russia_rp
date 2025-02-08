@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    },
+    {
+      "item": "russia_rp:slice_of_big_sausage"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:big_sausage",
+    "count": 1
+  }
+}

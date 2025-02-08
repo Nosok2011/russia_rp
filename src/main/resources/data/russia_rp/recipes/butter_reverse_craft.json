@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "russia_rp:butter"
+    }
+  ],
+  "result": {
+    "item": "russia_rp:slice_of_butter",
+    "count": 9
+  }
+}
